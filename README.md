@@ -1,4 +1,4 @@
-# API Rest - Consulta de cidades do Brasil
+# API Rest - Looking for brazilian cities and its distances
 
 The goal of this Project is to calculate the distance between all cities in Brazil.
 
