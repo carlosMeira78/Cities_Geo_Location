@@ -19,13 +19,12 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 
 
 ## Populate
-- Data
->
+
 > For Linux:
 
 > ```
 > 	git clone cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
->   docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
+> 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 
 
 > For Windows:
@@ -38,14 +37,14 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > Ordinary:
 > ```
 > 	git clone [
-psql -h localhost -U postgres_user_city cities -f /tmp/pais.sql
-psql -h localhost -U postgres_user_city cities -f /tmp/estado.sql
-psql -h localhost -U postgres_user_city cities -f /tmp/cidade.sql
+> 	psql -h localhost -U postgres_user_city cities -f /tmp/pais.sql
+> 	psql -h localhost -U postgres_user_city cities -f /tmp/estado.sql
+> 	psql -h localhost -U postgres_user_city cities -f /tmp/cidade.sql
 
-psql -h localhost -U postgres_user_city cities
+> 	psql -h localhost -U postgres_user_city cities
 
-CREATE EXTENSION cube; 
-CREATE EXTENSION earthdistance;
+> 	CREATE EXTENSION cube; 
+> 	CREATE EXTENSION earthdistance;
 ]
 > ```
 
