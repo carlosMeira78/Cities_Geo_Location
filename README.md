@@ -115,16 +115,6 @@ The goal of this Project is to calculate the distance between all cities in Braz
 - To Find all the states - localhost:8080/states
 - To look for a specific country - localhost:8080/countries/... (choose an Id)
 
-
-
-## Contribuições
-
-Seu projeto pode receber contribuições da comunidade? Se sim, utilize esse tópico;
-aqui você coloca as informações resumidas de como a pessoa poderá o ajudar com o projeto.
-
-> Exemplo:
-> - Para contribuir com esse projeto, fork este projeto, faça as modificações que tens desejo e crie um pull request; veja as instruções detalhadas no arquivo _CONTRIBUTING.md_.
-
 ## Author
 
 > - **Carlos Meira** - [Github](https://github.com/carlosMeira78)
@@ -136,7 +126,7 @@ You never walk alone!
 This project was realized just because I´ve had help from DIO and programing friends like Caio Moreira.
 
 - [DIO - Digital Inovation One](https://web.digitalinnovation.one/home)
-> - **Caio Moreira** - [Github](https://github.com/caiomcs04)
+- **Caio Moreira** - [Github](https://github.com/caiomcs04)
 
 
 
