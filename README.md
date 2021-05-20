@@ -71,8 +71,7 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > ```
 
 
-## Sprin Boot
- **Postgres**
+## Spring Boot
 - [Start Spring](https://start.spring.io/)
 - Java 8+
 - Gradle Project
@@ -81,6 +80,17 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 - Spring Data JPA
 - PostgreSQL Driver
 
+ **Spring Data**
+- [JPA Query Methods](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods)
+>
+ **Properts**
+- [Appendix Application Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html)
+- [Jdbc Database Connectio](https://www.codejava.net/java-se/jdbc/jdbc-database-connection-url-for-common-databases)
+
+>
+ **Types**
+- [Json Types](https://github.com/vladmihalcea/hibernate-types)
+- [User Types](https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/usertype/UserType.html)
 
 
 
