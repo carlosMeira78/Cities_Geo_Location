@@ -10,7 +10,7 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > - **IntelliJ Community**
 
 ## DataBase
-> - **Postgres**
+> **Postgres**
 - [Postgres Docker Hub](https://hub.docker.com/_/postgres)
 
 > ```
