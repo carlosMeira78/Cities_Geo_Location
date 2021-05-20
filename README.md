@@ -19,14 +19,16 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 
 
 ## Populate
-
-A pergunta a ser respondida aqui é: "Quais comandos precisará outra pessoa fazer para conseguir configurar o seu projeto?"
-
-Recomendo configurar o seu projeto em uma outra pasta/ambiente e anotar aqui todos os passos necessários para a execução.
-
-> Exemplo:
+- [Data]
 >
-> Comandos para Linux:
+> For Linux:
+> ```
+> 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
+
+docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
+]
+
+> For Windows:
 > ```
 > 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
 
@@ -34,15 +36,18 @@ docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 ]
 
 
+> Ordinary:
 > ```
-> Acesse a pasta do projeto seu terminal:
-> ```
-> 	cd [Nome da pasta do seu Projeto]
-> ```
-> Já pasta da aplicação em seu terminal, digite o seguinte comando:
-> ```
-> 	yarn install
-> ```
+> 	git clone [
+psql -h localhost -U postgres_user_city cities -f /tmp/pais.sql
+psql -h localhost -U postgres_user_city cities -f /tmp/estado.sql
+psql -h localhost -U postgres_user_city cities -f /tmp/cidade.sql
+
+psql -h localhost -U postgres_user_city cities
+
+CREATE EXTENSION cube; 
+CREATE EXTENSION earthdistance;
+]`
 
 ## Execução
 
