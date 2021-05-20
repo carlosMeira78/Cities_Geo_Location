@@ -23,20 +23,20 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > For Linux:
 
 > ```
-> 	git clone cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
+> 	cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
 > 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 
 
 > For Windows:
 > ```
-> 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
+> 	cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
 > 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 ]
 
 
 > Ordinary:
 > ```
-> 	git clone
+> 	
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/pais.sql
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/estado.sql
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/cidade.sql
