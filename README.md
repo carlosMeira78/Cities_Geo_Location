@@ -1,4 +1,4 @@
-# API Rest de Consulta de cidades do Brasil
+# API Rest - Consulta de cidades do Brasil
 
 Projeto que busca, principalmente, calcular a distância entre todas cidades do Brasil. 
 
