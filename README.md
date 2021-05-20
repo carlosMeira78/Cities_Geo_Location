@@ -108,7 +108,9 @@ The goal of this Project is to calculate the distance between all cities in Braz
 
 ## Checks
 
-Access [Postman] (chrome-extension://coohjcphdfgbiolnekdpbcijmhambjff/index.html) and execute the following comands:
+
+
+Access [Postman](chrome-extension://coohjcphdfgbiolnekdpbcijmhambjff/index.html) and execute the following comands:
 
 - To Find all the countries 
 localhost:8080/countries
