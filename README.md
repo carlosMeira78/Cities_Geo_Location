@@ -13,7 +13,6 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
  **Postgres**
 - [Postgres Docker Hub](https://hub.docker.com/_/postgres)
 
-
 > ```
 > docker run --name cities-db -d -p 5432:5432 -e POSTGRES_USER=postgres_user_city -e POSTGRES_PASSWORD=super_password -e POSTGRES_DB=cities postgres
 > ```
@@ -70,6 +69,20 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > ```
 > select earth_distance( ll_to_earth(-21.95840072631836,-47.98820114135742), ll_to_earth(-22.01740074157715,-47.88600158691406)) as distance;
 > ```
+
+
+## Sprin Boot
+ **Postgres**
+- [Start Spring](https://start.spring.io/)
+- [Java 8+]
+- [Gradle Project]
+- [jar]
+- [Spring Web]
+- [Spring Data JPA]
+- [PostgreSQL Driver]
+
+
+
 
 ## Funcionalidades
 
