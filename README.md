@@ -18,11 +18,7 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > ```
 
 
-
-
-
-
-## Instalação
+## Populate
 
 A pergunta a ser respondida aqui é: "Quais comandos precisará outra pessoa fazer para conseguir configurar o seu projeto?"
 
@@ -30,9 +26,14 @@ Recomendo configurar o seu projeto em uma outra pasta/ambiente e anotar aqui tod
 
 > Exemplo:
 >
-> Clone esse projeto em seu computador com o comando:
+> Comandos para Linux:
 > ```
-> 	git clone [Url do seu repositório]
+> 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
+
+docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
+]
+
+
 > ```
 > Acesse a pasta do projeto seu terminal:
 > ```
