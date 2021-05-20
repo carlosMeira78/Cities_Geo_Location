@@ -98,9 +98,9 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 - (https://pmd.github.io/pmd-6.8.0/index.html)
 
  **Checkstyle**
-- (https://checkstyle.org/)
-- (https://checkstyle.org/google_style.html)
-- (https://google.github.io/styleguide/javaguide.html)
+- https://checkstyle.org/
+- https://checkstyle.org/google_style.html
+- https://google.github.io/styleguide/javaguide.html
 
 > ```
 > wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
