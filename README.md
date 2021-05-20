@@ -24,12 +24,14 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 
 > ```
 > 	cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
+> 	
 > 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 
 > For Windows:
 > ```
 > 	cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
-> 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
+> 	
+> 	docker run -it --rm --net=host -v C:\Users\...\PostgreSQL/tmp postgres /bin/bash
 
 > Ordinary:
 > ```	
