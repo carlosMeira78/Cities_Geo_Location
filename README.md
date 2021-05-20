@@ -1,18 +1,22 @@
-# Nome do Projeto
+# API Rest de Consulta de cidades do Brasil
 
-Breve descrição (preferencialmente em um paragrafo) do projeto abordando o porque da sua criação, objetivo ou ideia de utilização.
+Projeto que busca, principalmente, calcular a distância entre todas cidades do Brasil. 
 
-> Exemplo:
->
-> Este projeto visa ajudar diretamente os desenvolvedores, principalmente aqueles que não se sentem confortável com o inglês, na elaboração da descrição de seus projetos, fornecendo neste template uma base com tópicos, exemplos de como e o que colocar no README.md.
+## Requirements
+> - **Linux ou Windows**
+> - **Git**
+> > - **Java 8 ou superior**
+> - **Docker**
+> > - **IntelliJ Community**
 
-## Pré-requisitos
+## DataBase
+> - **Postgres**
+> - [Postgres?]https://hub.docker.com/_/postgres)
 
-Informe aqui tudo que é obrigatório previamente já ter sido configurado/instalado no ambiente que será executado sua aplicação; exemplifique também como fazê-lo;
+docker run --name cities-db -d -p 5432:5432 -e POSTGRES_USER=postgres_user_city -e POSTGRES_PASSWORD=super_password -e POSTGRES_DB=cities postgres
 
-> Exemplo (Para criar uma aplicação com React):
-> - **Node** com versão superior ou igual que 8.1 - [Node Donwload](https://nodejs.org/pt-br/download/)
-> - **NPM** com versão superior ou igual que 5.6 - [Npm Donwload](https://www.npmjs.com/package/download)
+
+
 
 ## Instalação
 
