@@ -108,16 +108,12 @@ The goal of this Project is to calculate the distance between all cities in Braz
 
 ## Checks
 
-- [Postman](chrome-extension://coohjcphdfgbiolnekdpbcijmhambjff/index.html)
+**Access extension Postman and execute the following comands:**
 
-Access  and execute the following comands:
-
-- To Find all the countries 
-localhost:8080/countries
-
-- Performance
-- Segurança
-- Regressão
+- To Find all the countries - localhost:8080/countries
+- To Find all the cities - localhost:8080/cities
+- To Find all the states - localhost:8080/states
+- To look for a spacific country - localhost:8080/countries/... (choose a Id)
 
 Dentre outros...
 > Exemplo de comando para execução de testes em uma aplicação:
