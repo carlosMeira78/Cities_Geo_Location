@@ -46,7 +46,10 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > 	CREATE EXTENSION earthdistance;
 
 - [Postgres Earth Distance](https://www.postgresql.org/docs/current/earthdistance.html)
-
+- [Earthdistance--1.0--1.1.sql](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.0--1.1.sql)
+- [Operador <@>](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.1.sql)
+- [PostgresCheatSheet](https://postgrescheatsheet.com/#/tables)
+- [DataBase Geometric](https://www.postgresql.org/docs/current/datatype-geometric.html)
 
 
 
