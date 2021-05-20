@@ -1,6 +1,6 @@
 # API Rest - Consulta de cidades do Brasil
 
-Projeto que busca, principalmente, calcular a distância entre todas cidades do Brasil. 
+The goal of this Project is to calculate the distance between all cities in Brazil.
 
 ## Requirements
 > - **Linux ou Windows**
