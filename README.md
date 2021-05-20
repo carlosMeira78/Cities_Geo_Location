@@ -121,6 +121,7 @@ The goal of this Project is to calculate the distance between all cities in Braz
 
 > - **Carlos Meira** - [Github](https://github.com/carlosMeira78)
 > - **e-mail** - meira.costa@yahoo.com.br
+> - **LinkedIn** - https://www.linkedin.com/in/carlos-meira-46051a178/
 
 ## Thanks 
 
