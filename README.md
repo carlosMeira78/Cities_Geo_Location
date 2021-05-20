@@ -55,6 +55,7 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 
 > ```
 > docker exec -it cities-db /bin/bash
+> 
 > psql -U postgres_user_city cities
 > ```
 
