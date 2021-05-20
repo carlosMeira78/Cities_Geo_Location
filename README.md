@@ -51,21 +51,13 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 - [PostgresCheatSheet](https://postgrescheatsheet.com/#/tables)
 - [DataBase Geometric](https://www.postgresql.org/docs/current/datatype-geometric.html)
 
+## Access
 
-
-## Execução
-
-Esse é talvez o tópico mais importante, faça com atenção.
-
-Através das informações especificadas nele, outras pessoas poderam visualizar e testar o funcionamento da sua aplicação.
-
-> Exemplo: 
->
-> Após ter configurado o projeto e ter aguardado a instalação das dependencias de desenvolvimento, execute o comando:
 > ```
-> 	yarn start
+> docker exec -it cities-db /bin/bash
+> psql -U postgres_user_city cities
 > ```
-> A aplicação estará disponível para visualização em seu navegador, caso isso não aconteça automaticamente abre o navegador no seguinte endereço: _localhost:3000_
+
 
 ## Funcionalidades
 
