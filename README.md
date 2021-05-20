@@ -74,12 +74,12 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 ## Sprin Boot
  **Postgres**
 - [Start Spring](https://start.spring.io/)
-- [Java 8+]
-- [Gradle Project]
-- [jar]
-- [Spring Web]
-- [Spring Data JPA]
-- [PostgreSQL Driver]
+- Java 8+
+- Gradle Project
+- jar
+- Spring Web
+- Spring Data JPA
+- PostgreSQL Driver
 
 
 
