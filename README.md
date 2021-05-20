@@ -24,14 +24,12 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > For Linux:
 > ```
 > 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
-
 docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 ]
 
 > For Windows:
 > ```
 > 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
-
 docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 ]
 
