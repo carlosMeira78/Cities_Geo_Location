@@ -31,7 +31,7 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > ```
 > 	git clone [cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
 > 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
-]> ```
+]
 
 
 > Ordinary:
@@ -40,13 +40,10 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/pais.sql
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/estado.sql
 > 	psql -h localhost -U postgres_user_city cities -f /tmp/cidade.sql
-
 > 	psql -h localhost -U postgres_user_city cities
-
 > 	CREATE EXTENSION cube; 
 > 	CREATE EXTENSION earthdistance;
-]
-> ```
+
 
 ## Execução
 
