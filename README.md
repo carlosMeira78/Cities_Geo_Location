@@ -19,13 +19,13 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 
 
 ## Populate
-- [Data]
+- Data
 >
 > For Linux:
 
 > ```
 > 	git clone cd ~/workspace/sql-paises-estados-cidades/PostgreSQL
-docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
+>   docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
 > ```
 > > ```
 > 	docker run -it --rm --net=host -v $PWD:/tmp postgres /bin/bash
