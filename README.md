@@ -3,7 +3,7 @@
 The goal of this Project is to calculate the distance between all cities in Brazil.
 
 ## Requirements
-> - **Linux ou Windows**
+> - **Linux or Windows**
 > - **Git**
 > - **Java 8 ou superior**
 > - **Docker**
