@@ -5,13 +5,13 @@ Projeto que busca, principalmente, calcular a distância entre todas cidades do 
 ## Requirements
 > - **Linux ou Windows**
 > - **Git**
-> > - **Java 8 ou superior**
+> - **Java 8 ou superior**
 > - **Docker**
-> > - **IntelliJ Community**
+> - **IntelliJ Community**
 
 ## DataBase
 > - **Postgres**
-> - [Postgres?]https://hub.docker.com/_/postgres)
+> - (https://hub.docker.com/_/postgres)
 
 docker run --name cities-db -d -p 5432:5432 -e POSTGRES_USER=postgres_user_city -e POSTGRES_PASSWORD=super_password -e POSTGRES_DB=cities postgres
 
