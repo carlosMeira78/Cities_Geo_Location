@@ -106,25 +106,13 @@ The goal of this Project is to calculate the distance between all cities in Braz
 > wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 > ```
 
-## Funcionalidades
+## Checks
 
-Imagine aqui que outra pessoa configurou e executou o seu projeto, apresente então as principais funcionalidade que seu projeto tem e onde encontrar, dessa forma ela vai conseguir testar e usar tudo o que foi desenvolvido.
+Access Postman (chrome-extension://coohjcphdfgbiolnekdpbcijmhambjff/index.html) and execute the following comands:
 
-Você ao fazer isso evita que o usuário da aplicação, por não ter conhecimento, pule ou não veja o que seu projeto é capaz de fazer.
+- To Find all the countries 
+localhost:8080/countries
 
-> Exemplo: 
->
-> Este projeto visa a funcionalidade de ser: 
-> - Template de README.md em PORTUGUÊS - PTBR;
-> - Artigo explicando e exemplificando tópicos de documentação;
-
-
-## Testes
-
-Sua aplicação contempla testes? Se sim, explique como executar os testes automatizados para este sistema; você também pode anexar aqui as capturas de telas (prints) dos testes que você fez ou de um determinado comportamento da aplicação.
-
-Tipos de testes: 
-- Unitários
 - Performance
 - Segurança
 - Regressão
