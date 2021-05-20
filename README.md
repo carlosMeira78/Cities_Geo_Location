@@ -136,7 +136,7 @@ You never walk alone!
 This project was realized just because I´ve had help from DIO and programing friends like Caio Moreira.
 
 - [DIO - Digital Inovation One](https://web.digitalinnovation.one/home)
-- [Caio Moreira][Github](https://github.com/caiomcs04)
+> - **Caio Moreira** - [Github](https://github.com/caiomcs04)
 
 
 
