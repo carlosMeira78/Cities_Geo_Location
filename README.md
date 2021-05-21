@@ -95,7 +95,7 @@ The goal of this Project is to calculate the distance between all cities in Braz
 
 ## Code Quality
  **PMD**
-- (https://pmd.github.io/pmd-6.8.0/index.html)
+- https://pmd.github.io/pmd-6.8.0/index.html
 
  **Checkstyle**
 - https://checkstyle.org/
@@ -110,11 +110,11 @@ The goal of this Project is to calculate the distance between all cities in Braz
 
 **Access extension Postman from your computer and execute the following comands:**
 
-- To Find all countries - localhost:8080/countries
-- To Find all cities - localhost:8080/cities
-- To Find all states - localhost:8080/states
-- To look for a specific country - localhost:8080/countries/... (choose an Id)
-- To Find the distance in kilomiters between two cities in Brazil - localhost:8080/distances/by-cube?from=(choose an Id)&to=(choose an Id)
+- Finding all countries - localhost:8080/countries
+- Finding all cities - localhost:8080/cities
+- Finding all states - localhost:8080/states
+- Looking for a specific country - localhost:8080/countries/... (choose an Id)
+- Finding distance in kilomiters between two cities in Brazil - localhost:8080/distances/by-cube?from=(choose an Id)&to=(choose an Id)
 - To Find the distance in miles between two cities in Brazil - localhost:8080/distances/by-points?from=(choose an Id)&to=(choose an Id)
 
 ## Author
