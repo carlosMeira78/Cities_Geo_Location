@@ -131,5 +131,7 @@ This project was carried out just because I´ve had help from DIO and programing
 - [DIO - Digital Inovation One](https://web.digitalinnovation.one/home)
 - **Caio Moreira** - [Github](https://github.com/caiomcs04)
 
+)
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
